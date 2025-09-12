@@ -1,6 +1,6 @@
 <h1 align="center">Hiii, I'm Pani🎀</h1>
 <div align="center">
-  <img src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFiMXFmeDBzN3R5MHVjOTc5Z21zbDU5eGxjdmJzNm91OXNudGVveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif)">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFiMXFmeDBzN3R5MHVjOTc5Z21zbDU5eGxjdmJzNm91OXNudGVveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif">
 
 ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
