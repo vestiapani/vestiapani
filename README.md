@@ -35,5 +35,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-wirahadi-permana-503694337/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ipanntsu)
 
-#### My Github Stats
-![Pani's GitHub stats](https://github-readme-stats.vercel.app/api?username=vestiapani&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk1aTFnZnR3MXJ3bW9nN3dna2M3NTYxeWQ3eTlxOG1qNmdqZnFibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TmxH7ZMn1aYE/giphy.gif">
+</div> 
