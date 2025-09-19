@@ -96,7 +96,7 @@
   
 </div>
 
-## <h3> Games </h3>
+## <h3> 🎮 Games </h3>
 <div display = "flex">
   <br>
   <p align=center>
@@ -109,7 +109,7 @@
 </br>
 </div>
 
-## <h3> Connect With  </h3>
+## <h3> 📞 Connect With Me  </h3>
 <br>
 <p align=center>
   <a href="https://www.instagram.com/vestiapani/" target="_blank">
