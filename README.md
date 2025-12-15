@@ -15,6 +15,13 @@
 - :student: I’m currently learn `Website Design` and `Software Engineering`.
 - :nerd_face: Always `learn something new`.
 <br>
+<h1></h1>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=vestiapani&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Pani's GitHub trophy">
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=vestiapani&theme=light" alt="Pani's GitHub trophy"> -->
+</div>
+
+<br>
 
 
 ## <h2> 💻 Skills </h2>
