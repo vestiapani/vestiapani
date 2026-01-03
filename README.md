@@ -14,6 +14,7 @@
   University](https://univpancasila.ac.id/).
 - :student: I’m currently learn `Website Design` and `Software Engineering`.
 - :nerd_face: Always `learn something new`.
+- 💻 `Owner` of [MangNime](https://mangnime.netlify.app)
 <br>
 <h1></h1>
 <div align="center">
