@@ -129,6 +129,11 @@
 </p>
 <br>
 
+<h1 align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vestiapani&layout=compact&theme=radical" alt="Top Langs MANG CODER" />
+    <br><br>
+  </h1>
+  
 ---
 <p align="center">
   <a><img alt="Quote"
